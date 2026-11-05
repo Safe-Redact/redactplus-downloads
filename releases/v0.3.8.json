@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "version": "0.3.8",
+  "channel": "stable",
+  "commit": "5d60762578c36b5f851f062f6981c3d98617eb6b",
+  "releasedOn": "2026-11-05",
+  "manual": true,
+  "pipelineStartsAt": "0.4.1",
+  "notes": [
+    "New RedactPlus branding throughout the desktop application.",
+    "Includes the integrated tracking and licensing updates."
+  ],
+  "artifacts": [
+    {
+      "edition": "lite",
+      "fileName": "RedactPlus-Setup.exe",
+      "sourceFileName": "RedactPlus-Setup-0.3.8.exe",
+      "sizeBytes": 321387989,
+      "sha256": "6034ac3ceff0294c6285badfcfbb28b3a6b4c289d6892e4bb68c6ce04f519ea2",
+      "downloadUrl": "https://github.com/Safe-Redact/redactplus-downloads/releases/download/v0.3.8/RedactPlus-Setup.exe"
+    }
+  ]
+}
