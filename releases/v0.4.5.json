@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "version": "0.4.5",
+  "numericVersion": "0.4.5.65535",
+  "baseVersion": "0.4.5",
+  "commit": "81918d4bcb5fdfe97483a45e9814055de1724e68",
+  "height": 191,
+  "channel": "stable",
+  "dirty": false,
+  "informationalVersion": "0.4.5+g81918d4bcb5fdfe97483a45e9814055de1724e68",
+  "tag": "v0.4.5",
+  "releasedOn": "2026-11-25",
+  "notes": [],
+  "artifacts": [
+    {
+      "edition": "lite",
+      "fileName": "RedactPlus-Setup.exe",
+      "sizeBytes": 315271439,
+      "sha256": "9df6a204f332f5af6d8b4f0e003a34356ea958d66406b13fe178c1cf2e31fb82",
+      "sourceFileName": "RedactPlus-Setup-0.4.5.exe",
+      "downloadUrl": "https://github.com/Safe-Redact/redactplus-downloads/releases/download/v0.4.5/RedactPlus-Setup.exe"
+    }
+  ],
+  "sourceRepository": "Safe-Redact/redact",
+  "downloadsRepository": "Safe-Redact/redactplus-downloads"
+}
